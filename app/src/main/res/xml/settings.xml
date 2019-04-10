@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Preference
+        android:key="PrefFAQ"
+        android:summary="Frequently asked questions"
+        android:title="FAQs" />
+
+    <Preference
+        android:key="PrefOurMoreApp"
+        android:summary="We developed some good apps click here to see our more apps"
+        android:title="More Apps" />
+
+    <Preference
+        android:key="ShareApp"
+        android:summary="If you have a minute, can you please help us to spread in the world about this application"
+        android:title="Recommend to friends" />
+
+    <Preference
+        android:key="PrefRateNow"
+        android:summary="Do you have a few seconds to rate 5 star this app? We want to hear your opinion"
+        android:title="Rate Us" />
+
+    <Preference
+        android:key="FeedBack"
+        android:summary="Please give some suggetion to improve this application"
+        android:title="FeedBack" />
+    <Preference
+        android:key="Version"
+        android:summary="1.0"
+        android:title="Version" />
+
+    <Preference
+        android:key="Update"
+        android:title="Check for update" />
+
+    <Preference
+        android:key="PrivacyPolicy"
+        android:title="Privacy Policy" />
+
+</PreferenceScreen>

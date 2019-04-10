@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "863010152533",
+    "firebase_url": "https://status-downloader-9f0f3.firebaseio.com",
+    "project_id": "status-downloader-9f0f3",
+    "storage_bucket": "status-downloader-9f0f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863010152533:android:099e474c2bbfb57e",
+        "android_client_info": {
+          "package_name": "com.rjeducationhub.statusdownloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863010152533-rlju57kqorqf3m62695kqg1dac822a78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIQLxFBEgyfGWgBfPdQk5vjcPR5ACty58"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

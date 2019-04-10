@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/collection"
+        android:icon="@drawable/ic_collections_white_24dp"
+        android:orderInCategory="1"
+        android:title="Collection"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/setting"
+        android:icon="@drawable/ic_settings_white_24dp"
+        android:orderInCategory="1"
+        android:title="Gift"
+        app:showAsAction="always" />
+
+
+</menu>
